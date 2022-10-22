@@ -1,4 +1,4 @@
-package se.magnus.api.core.recommendation;
+package com.sengar.api.core.recommendation;
 
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;

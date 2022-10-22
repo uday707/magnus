@@ -1,4 +1,4 @@
-package se.magnus.api.composite.product;
+package com.sengar.api.composite.product;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

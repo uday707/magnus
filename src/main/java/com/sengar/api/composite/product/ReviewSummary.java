@@ -1,4 +1,4 @@
-package se.magnus.api.composite.product;
+package com.sengar.api.composite.product;
 
 
 public class ReviewSummary {

@@ -5,7 +5,7 @@
   <groupId>com.sengar.api</groupId>
   <artifactId>magnus</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.5</version>
+  <version>1.0.6</version>
   
   <name>magnus-api</name>
   <url>http://maven.apache.org</url>
@@ -28,5 +28,11 @@
          <version>${springfox.version}</version> 
       </dependency>
   </dependencies>
-
+  <distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>GitHub OWNER Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/uday707/magnus</url>
+   </repository>
+  </distributionManagement>
 </project>

@@ -1,4 +1,4 @@
-package se.magnus.api.core.product;
+package com.sengar.api.core.product;
 
 public class Product {
   
