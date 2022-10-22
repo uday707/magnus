@@ -5,10 +5,10 @@
   <groupId>com.sengar.api</groupId>
   <artifactId>magnus</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.6</version>
+  <version>1.0.7</version>
   
   <name>magnus-api</name>
-  <url>http://maven.apache.org</url>
+  <url>https://maven.pkg.github.com/uday707/magnus</url>
   
   <properties>
      <spring.version>5.2.5.RELEASE</spring.version>
