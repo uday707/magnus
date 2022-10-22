@@ -1,4 +1,4 @@
-package se.magnus.api.core.review;
+package com.sengar.api.core.review;
 
 
 public class Review {
