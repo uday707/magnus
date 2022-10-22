@@ -5,7 +5,7 @@
   <groupId>com.sengar.api</groupId>
   <artifactId>magnus</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.8</version>
+  <version>1.0.9</version>
   
   <name>magnus-api</name>
   <url>https://maven.pkg.github.com/uday707/magnus</url>
